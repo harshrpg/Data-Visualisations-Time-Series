@@ -1,0 +1,54 @@
+[
+  {
+    "len": 5,
+    "color": "#26A69A",
+    "label": "Atarctica",
+    "id": "Atarctica"
+  },
+  {
+    "len": 5,
+    "color": "#009688",
+    "label": "USA",
+    "id": "USA"
+  },
+  {
+    "len": 5,
+    "color": "#00897B",
+    "label": "Australia",
+    "id": "Australia"
+  },
+  {
+    "len": 5,
+    "color": "#00796B",
+    "label": "Indonesia",
+    "id": "Indonesia"
+  },
+  {
+    "len": 5,
+    "color": "#00695C",
+    "label": "China",
+    "id": "China"
+  },
+  { "len": 5, "color": "#00695C", "label": "India", "id": "India" },
+  {
+    "len": 5,
+    "color": "#00695C",
+    "label": "Tanzania",
+    "id": "Tanzania"
+  },
+  { "len": 5, "color": "#00695C", "label": "Fiji", "id": "Fiji" },
+  {
+    "len": 5,
+    "color": "#00695C",
+    "label": "Italy",
+    "id": "Italy"
+  },
+  { "len": 5, "color": "#00695C", "label": "Peru", "id": "Peru" },
+  {
+    "len": 5,
+    "color": "#00695C",
+    "label": "Papue New Guinea",
+    "id": "Papue New Guinea"
+  },
+  { "len": 5, "color": "#00695C", "label": "South Africa", "id": "South Africa" }
+]

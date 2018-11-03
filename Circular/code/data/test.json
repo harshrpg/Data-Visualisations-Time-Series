@@ -1,0 +1,80 @@
+[
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Antarctica",
+    "id": "Antarctica"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Australia",
+    "id": "Australia"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "China",
+    "id": "China"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Fiji",
+    "id": "Fiji"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "India",
+    "id": "India"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Indonesia",
+    "id": "Indonesia"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Italy",
+    "id": "Italy"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Madagascar",
+    "id": "Madagascar"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Papua New Guinea",
+    "id": "Papua New Guinea"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "Peru",
+    "id": "Peru"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "South Africa",
+    "id": "South Africa"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "United Rep. of Tanzania",
+    "id": "United Rep. of Tanzania"
+  },
+  {
+    "len":6,
+    "color": "#009688",
+    "label": "United States of America",
+    "id": "United States of America"
+  }
+]

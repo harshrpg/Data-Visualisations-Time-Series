@@ -1,0 +1,66 @@
+id,start,end,country,year,value
+1,0,1,Antarctica,2014,6
+1,1,2,Antarctica,2015,6
+1,2,3,Antarctica,2016,6
+1,3,4,Antarctica,2017,6
+1,4,5,Antarctica,2018,6
+1,10,11,Australia,2014,906
+1,11,12,Australia,2015,909
+1,12,13,Australia,2016,926
+1,13,14,Australia,2017,948
+1,14,15,Australia,2018,998
+1,20,21,China,2014,995
+1,21,22,China,2015,1040
+1,22,23,China,2016,1079
+1,23,24,China,2017,1080
+1,24,25,China,2018,1095
+1,35,36,Fiji,2014,278
+1,36,37,Fiji,2015,278
+1,37,38,Fiji,2016,282
+1,38,39,Fiji,2017,291
+1,39,40,Fiji,2018,298
+1,40,41,India,2014,988
+1,41,42,India,2015,1039
+1,42,43,India,2016,1051
+1,43,44,India,2017,1052
+1,44,45,India,2018,1067
+1,15,16,Indonesia,2014,1225
+1,16,17,Indonesia,2015,1246
+1,17,18,Indonesia,2016,1257
+1,18,19,Indonesia,2017,1281
+1,19,20,Indonesia,2018,1295
+1,45,46,Italy,2014,276
+1,46,47,Italy,2015,279
+1,47,48,Italy,2016,305
+1,48,49,Italy,2017,359
+1,49,50,Italy,2018,420
+1,25,26,Madagascar,2014,929
+1,26,27,Madagascar,2015,965
+1,27,28,Madagascar,2016,1244
+1,28,29,Madagascar,2017,1324
+1,29,30,Madagascar,2018,1616
+1,55,56,Papua New Guinea,2014,471
+1,56,57,Papua New Guinea,2015,478
+1,57,58,Papua New Guinea,2016,488
+1,58,59,Papua New Guinea,2017,493
+1,59,60,Papua New Guinea,2018,499
+1,50,51,Peru,2014,642
+1,51,52,Peru,2015,643
+1,52,53,Peru,2016,693
+1,53,54,Peru,2017,685
+1,54,55,Peru,2018,713
+1,60,61,South Africa,2014,528
+1,61,62,South Africa,2015,527
+1,62,63,South Africa,2016,537
+1,63,64,South Africa,2017,581
+1,64,65,South Africa,2018,607
+1,30,31,United Rep. of Tanzania,2014,979
+1,31,32,United Rep. of Tanzania,2015,1077
+1,32,33,United Rep. of Tanzania,2016,1086
+1,33,34,United Rep. of Tanzania,2017,1082
+1,34,35,United Rep. of Tanzania,2018,1121
+1,5,6,United States of America,2014,1287
+1,6,7,United States of America,2015,1299
+1,7,8,United States of America,2016,1479
+1,8,9,United States of America,2017,1513
+1,9,10,United States of America,2018,1540

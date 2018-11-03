@@ -1,0 +1,1 @@
+--compilers mocha --reporter html-cov
